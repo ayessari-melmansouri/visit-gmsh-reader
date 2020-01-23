@@ -1,6 +1,0 @@
-/net/i/ayessari/Desktop/visit-gmsh-reader/build/CMakeFiles/rebuild_cache.dir
-/net/i/ayessari/Desktop/visit-gmsh-reader/build/CMakeFiles/EGMSHDatabase_par.dir
-/net/i/ayessari/Desktop/visit-gmsh-reader/build/CMakeFiles/EGMSHDatabase_ser.dir
-/net/i/ayessari/Desktop/visit-gmsh-reader/build/CMakeFiles/edit_cache.dir
-/net/i/ayessari/Desktop/visit-gmsh-reader/build/CMakeFiles/MGMSHDatabase.dir
-/net/i/ayessari/Desktop/visit-gmsh-reader/build/CMakeFiles/IGMSHDatabase.dir
